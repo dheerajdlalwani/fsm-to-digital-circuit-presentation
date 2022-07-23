@@ -1,0 +1,32 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "An initial presentation for BE project. FSM to Digital Circuit converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajdlalwani/fsm-to-digital-circuit-presentation.git"
+  },
+  "keywords": [
+    "FSM",
+    "digital-circuit",
+    "DFA",
+    "NFA",
+    "TCS",
+    "automata"
+  ],
+  "author": "Dheeraj Lalwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dheerajdlalwani/fsm-to-digital-circuit-presentation/issues"
+  },
+  "homepage": "https://github.com/dheerajdlalwani/fsm-to-digital-circuit-presentation#readme",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^5.0.0-rc.1",
+    "asciidoctor": "^2.2.6",
+    "reveal.js": "^4.3.1"
+  }
+}
