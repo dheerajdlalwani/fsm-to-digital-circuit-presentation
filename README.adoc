@@ -1,6 +1,5 @@
 = FSM to Digital Circuit Synthesiser
 
-
 == Abstract
 * Finite State Machines are fundamental concepts in Automata Theory and Digital Logic Design.
 * These FSMs can be converted into a circuit.
@@ -52,10 +51,7 @@ stateDiagram-v2
 
 [transition=fade]
 === Circuit
-
-a
-
-
+image::https://faculty.etsu.edu/tarnoff/ntes2150/statemac/answer.gif[answer,600,500]
 
 == References
 
